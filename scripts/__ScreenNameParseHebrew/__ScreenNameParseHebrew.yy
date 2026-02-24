@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__ScreenNameParseHebrew",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__ScreenNameParseHebrew",
+  "parent":{
+    "name":"Parsers",
+    "path":"folders/ScreenName/(System)/Parsers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

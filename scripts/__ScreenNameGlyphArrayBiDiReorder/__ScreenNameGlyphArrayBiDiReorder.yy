@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__ScreenNameGlyphArrayBiDiReorder",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__ScreenNameGlyphArrayBiDiReorder",
+  "parent":{
+    "name":"Support",
+    "path":"folders/ScreenName/(System)/Parsers/Support.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

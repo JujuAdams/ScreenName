@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__ScreenNameParseThai",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__ScreenNameParseThai",
+  "parent":{
+    "name":"Parsers",
+    "path":"folders/ScreenName/(System)/Parsers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

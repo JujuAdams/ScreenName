@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__ScreenNameSubstringClass",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__ScreenNameSubstringClass",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/ScreenName/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

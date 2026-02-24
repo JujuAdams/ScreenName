@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ScreenNameFontPack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScreenNameFontPack",
+  "parent":{
+    "name":"ScreenName",
+    "path":"folders/ScreenName.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

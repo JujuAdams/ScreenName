@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__ScreenNameRecompose",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__ScreenNameRecompose",
+  "parent":{
+    "name":"Support",
+    "path":"folders/ScreenName/(System)/Parsers/Support.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
